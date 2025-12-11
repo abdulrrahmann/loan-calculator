@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  direction: rtl;
+  /* font-family: "Montserrat", sans-serif; */
+}
+
+@theme {
+  --color-primary: #008585;
+  --default-font-family: "Rubik", sans-serif;
+}
