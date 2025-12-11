@@ -91,7 +91,7 @@ const App = () => {
 
   return (
     <div>
-      <p className="font-semibold text-5xl md:text-6xl text-center my-6 mx-5 font-[Rakkas]">
+      <h1 className="font-semibold text-5xl md:text-6xl text-center my-10 mx-5 font-[Rakkas]">
         كم المبلغ الذي ترغب في{" "}
         <motion.span
           className="text-primary"
@@ -105,7 +105,7 @@ const App = () => {
             </motion.span>
           ))}
         </motion.span>
-      </p>
+      </h1>
       <div className="md:flex md:gap-4 md:mx-10 lg:mx-20 xl:mx-30 ">
         <motion.form
           className="m-5 md:m-0 md:w-1/4 flex flex-col gap-y-4"
@@ -231,7 +231,7 @@ const App = () => {
           </div>
         </motion.section>
       </div>
-      <footer className="text-center text-sm mt-4 py-3 bg-amber-50 shadow-xl mx-5 md:mx-10 lg:mx-20 xl:mx-30 rounded-2xl">
+      <footer className="text-center text-sm mt-10 py-3 bg-amber-50 shadow-xl mx-5 md:mx-10 lg:mx-20 xl:mx-30 rounded-2xl">
         جميع الحقوق محفوظة {new Date().getFullYear()}
       </footer>
     </div>
