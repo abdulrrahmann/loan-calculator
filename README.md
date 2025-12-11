@@ -7,7 +7,7 @@ A modern UI Designed for **Arabic Users** with **RTL Layout** support.
 
 ## Live Demo
 
-You can use the loan calculator via the link: (hasbah)[https://hasbah.netlify.app]
+You can use the loan calculator via the link: [hasbah](https://hasbah.netlify.app)
 
 ## Features
 
